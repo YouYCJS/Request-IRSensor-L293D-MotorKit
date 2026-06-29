@@ -32,7 +32,7 @@ IR 센서로 감지한 신호에 따라 모터를 제어하는 보행 로봇 제
 
 | 회로 설계 (Schematic) | PCB 레이아웃 |
 |:---:|:---:|
-| <img src="https://github.com/user-attachments/assets/7c640feb-7df0-462a-ba87-95b0cf137262" alt="스키매틱" width="100%"> | <img src="https://github.com/user-attachments/assets/addc8bd5-7640-4576-b272-991b4e3ec42c" alt="PCB 레이아웃" width="100%"> |
+|<img src="https://github.com/user-attachments/assets/addc8bd5-7640-4576-b272-991b4e3ec42c" alt="PCB 레이아웃" width="100%"> |  <img src="https://github.com/user-attachments/assets/7c640feb-7df0-462a-ba87-95b0cf137262" alt="스키매틱" width="100%"> |
 
 ## 프로토타입
 
