@@ -4,12 +4,15 @@
 > TCRT5000 IR 센서 입력으로 L293D 모터 드라이버를 구동하는
 > 보행 로봇용 커스텀 PCB. Altium으로 스키매틱부터 PCB 레이아웃,
 > 3D 검증까지 전 과정 설계 후 실제 발주했습니다.
-
+<img width="1075" height="636" alt="Image" src="https://github.com/user-attachments/assets/cedd9e7b-d779-4af0-abb3-345211e9e942" />
+<img width="772" height="607" alt="Image" src="https://github.com/user-attachments/assets/addc8bd5-7640-4576-b272-991b4e3ec42c" />
+<img width="725" height="517" alt="Image" src="https://github.com/user-attachments/assets/7c640feb-7df0-462a-ba87-95b0cf137262" />
 <img width="670" height="507" alt="Image" src="https://github.com/user-attachments/assets/1fca7b30-8402-4a0f-b7b2-46a96f7f3967" />
 <img width="685" height="517" alt="Image" src="https://github.com/user-attachments/assets/3de65d78-d15e-4007-b9ce-e87b3d9c7d6a" />
-<img width="725" height="517" alt="Image" src="https://github.com/user-attachments/assets/7c640feb-7df0-462a-ba87-95b0cf137262" />
-<img width="772" height="607" alt="Image" src="https://github.com/user-attachments/assets/addc8bd5-7640-4576-b272-991b4e3ec42c" />
-<img width="1075" height="636" alt="Image" src="https://github.com/user-attachments/assets/cedd9e7b-d779-4af0-abb3-345211e9e942" />
+
+
+
+
 
 ## 개요
 IR 센서로 감지한 신호에 따라 모터를 제어하는 보행 로봇
