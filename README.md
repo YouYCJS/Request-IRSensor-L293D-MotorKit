@@ -1,4 +1,4 @@
-# IR Walking Robot Controller
+# IR Walking Robot Controller(2023.09.19)
 **IR 센서 기반 보행 로봇 제어 보드**
 
 > TCRT5000 IR 센서 입력으로 L293D 모터 드라이버를 구동하는 보행 로봇용 커스텀 PCB.
